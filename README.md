@@ -1,2 +1,6 @@
 # SMS_JAPIT
+patch-1
+STOCK MANAGEMENT 
+New project
 STOCK MANAGEMENT..
+master
